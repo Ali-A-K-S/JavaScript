@@ -1,4 +1,4 @@
-## This repository contains a JavaScript manual that covers basic concepts of JavaScript. 
+# This repository contains a JavaScript Manual that covers some of the following basic concepts of JavaScript. 
 
 ## Data Types                         _(pg.3)_
 ## VAR vs LET                         _(pg.3)_
